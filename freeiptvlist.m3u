@@ -137,7 +137,7 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/saglikli-gunler/playlis
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/Tarih-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Ssports1.tr" tvg-logo="https://ssport.tv/assets/images/icons/logo.svg" group-title="Spor",S Sports 1
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ssports2.tr" tvg-logo="https://ssport.tv/assets/images/icons/logo.svg" group-title="Spor",S Sports 1
+#EXTINF:-1 tvg-id="Ssports2.tr" tvg-logo="https://ssport.tv/assets/images/icons/logo.svg" group-title="Spor",S Sports 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="Spor",TRT Spor
 https://trt.daioncdn.net/trtspor/master_720p.m3u8?app=web
@@ -663,6 +663,12 @@ http://palatv34.ozelip.com:22372/aldosatv/aldosatv/playlist.m3u8
 http://palatv34.ozelip.com:22372/almanyatv/almanyatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f9cd2889-605a-4f77-ab14-9425570a8bac.png" group-title="Diğer-Eğlence",Cine 1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cine6tv.com.tr/uploads/logo/Emin-Kopyas%C4%B1-kopyas%C4%B1-250-x-250-piksel-_20250206_032915_0000.png" group-title="Diğer-Eğlence",Cine 6
+https://canli.cine6tv.com.tr:3614/stream/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cine6tv.com.tr/uploads/logo/Emin-Kopyas%C4%B1-kopyas%C4%B1-250-x-250-piksel-_20250206_032915_0000.png" group-title="Diğer-Eğlence",Cine MAX 6  
+https://canli.cinemax6.com:3220/stream/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f9cd2889-605a-4f77-ab14-9425570a8bac.png" group-title="Diğer-Eğlence",Sinema Keyfi SDM
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/735db609-c6b4-46aa-8347-3e4a4b0e4ee4.png" group-title="Diğer-Eğlence",Cine5 TV
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 #EXTINF:-1 tvg-id="CagriTV.tr" tvg-logo="http://assets.tvcdn.net/3ac45b9f-5daf-4c45-b748-fb522296f432.jpg" group-title="Diğer-Eğlence",Ã‡aÄŸrÄ± TV

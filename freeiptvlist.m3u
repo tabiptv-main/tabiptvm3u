@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml"
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.hizliresim.com/86r4b6t.png" group-title="t.me/tabiptv",TABİPTV SUNAR
-https://pixeldrain.com/api/file/YfAqws1Y
+https://dar.vin/tabiptvintro
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1-A
 http://116.202.238.88/TRT1_TR/index.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1-B

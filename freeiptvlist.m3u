@@ -769,6 +769,14 @@ http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
 http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
 #EXTINF:-1 tvg-logo="tv logo" group-title="Spor",Bein Sports 4(Yabancı kaynak)
 http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
+#EXTINF:-1 tvg-logo="tv logo" group-title="Spor",Bein Sports 1(Yabancı kaynak)
+http://origi-jw-5.ravenclaw-house.com:80/TR-BEINSPORT1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="Spor",Bein Sports 2(Yabancı kaynak)
+http://origi-jw-5.ravenclaw-house.com:80/TR-BEINSPORT2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="Spor",Bein Sports 3(Yabancı kaynak)
+http://origi-jw-5.ravenclaw-house.com:80/TR-BEINSPORT3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="Spor",Bein Sports 4(Yabancı kaynak)
+http://origi-jw-5.ravenclaw-house.com:80/TR-BEINSPORT4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="tv logo" group-title="Spor",Bein Sports Haber(Yabancı kaynak)
 http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Eğlence",DİZİ PREMIUM HD TR

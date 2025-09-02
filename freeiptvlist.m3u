@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.hizliresim.com/86r4b6t.png" group-title="t.me/tabiptv",TABİPTV SUNAR
 https://dar.vin/tabiptvintro
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1-A
-http://116.202.238.88/TRT1_TR/index.m3u8
+https://trn03.tulix.tv/gt-trt1-tveu/index.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1-B
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",ATV-A
@@ -16,11 +16,11 @@ http://116.202.238.88/KANALD_TR/index.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Ulusal",Star TV-A
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Ulusal",Star TV-B
-https://tv.arectv13.sbs/live/startv.m3u8
+https://trn03.tulix.tv/gt-star-tv/index.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",Show TV-A
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",Show TV-B
-https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+https://trn03.tulix.tv/gt-showtvs/index.m3u8
 #EXTINF:-1 tvg-id="Now.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Ulusal",Now TV-A
 http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1 tvg-id="Now.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Ulusal",Now TV-A
